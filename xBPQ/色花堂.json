@@ -13,9 +13,9 @@
 {
 "站名":"色花堂",
 "主页url":"https://89gaokk.com/",
-"数组":"<div class=\"img-box cover-md\">&&</h6>",
-"图片":"data-src=\"&&\"",
-"标题":"<h6 class=\"title\">&&</a>",
+"数组":"<div class=\"col-6 col-sm-4 col-lg-3\">&&</div>",
+"图片":"img class=\"lazyload\" src=\"&&\"",
+"标题":"<h6 class=\"title\">&&</h6>",
 "链接":"href=\"&&\"",
 "副标题":"<div class=\"ribbon-top-left\">&&</span>",
 "线路数组":"<div class=\"item line\">&&</div>[排序:线路一>线路二>线路三]",
