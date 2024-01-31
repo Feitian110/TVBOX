@@ -5,7 +5,7 @@
 
 "sites":[
 
-{"key":"csp_xBPQ_色花堂","name":"色花堂","type":3,"api":"csp_XBPQ","style": {"type": "rect","ratio": 1.485},"ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/色花堂.json","jar": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"},
+{"key":"csp_xBPQ_色花堂","name":"色花堂","type":3,"api":"csp_XBPQ","style": {"type": "rect","ratio": 1.485},"ext": "/XBPQ/色花堂.json","jar": "https://raw.githubusercontent.com/Feitian110/TVBOX/main/JAR/XBPQ1.jar"},
       
 {"key": "csp_XBPQ_麻豆传媒","name": "麻豆传媒","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.485},"ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/麻豆传媒.json","jar": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"},
   
