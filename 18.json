@@ -7,6 +7,9 @@
 
 {"key": "maiyoux_open","name": "聚合直播","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/maiyoux_open.js","searchable": 1,"changeable": 1,"timeout": 60},
 
+{"key":"91麻豆","name":"91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
+
+  
 {"key": "csp_XBPQ_麻豆传媒","name": "麻豆传媒","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.485},"ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/麻豆传媒.json","jar": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"},
   
 {"key":"wmcj8.com","name":"成人电影","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
