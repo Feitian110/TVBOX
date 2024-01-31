@@ -5,7 +5,23 @@
 
 "sites":[
 
+    
+{ "key": "博天堂", "name": "博天堂18x", "type": 0, "api": "http://bttcj.com/inc/sapi.php", "searchable": 0, "quickSearch": 1, "filterable": 0 },
+
+{ "key": "(18+)环亚资源", "name": "(18+不错)环亚资源", "type": 0, "api": "http://wmcj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+
+{ "key": "(18+)利来资源", "name": "(18+)利来资源", "type": 0, "api": "http://llzxcj.com/inc/sck.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+
+{"key":"*老鸭资源","name":"*老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+
+{"key": "Jable","name": "Jable","type": 3,"api": "csp_Jable","searchable": 1},
+
+{"key": "18AV","name": "18AV","api": "csp_Eighteen","type": 3,"style": {"type": "rect","ratio": 1.485}},
+
+{"key": "乐播资源","name": "乐播资源","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml/","playUrl": "parse:光速","searchable": 1,"quickSearch": 1,"filterable": 0},
+
 {"key": "富二代资源","name": "富二代资源","type": 0,"api": "http://f2dcj6.com/sapi/?ac=videolist","playUrl": "parse:光速","searchable": 1,"quickSearch": 1,"filterable": 0},
+
 {"key":"大地资源","name":"大地资源","type":0,"api":"https://dadiapi.com/api.php","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"CK资源","name":"CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
