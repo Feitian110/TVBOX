@@ -7,7 +7,7 @@
 
 {"key": "maiyoux_open","name": "聚合直播","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/maiyoux_open.js","searchable": 1,"changeable": 1,"timeout": 60},
 
-{"key":"91麻豆","name":"91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"91麻豆","name":"91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1"filterable":0},
 
   
 {"key": "csp_XBPQ_麻豆传媒","name": "麻豆传媒","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.485},"ext": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/麻豆传媒.json","jar": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/jar/xbpq.jar"},
