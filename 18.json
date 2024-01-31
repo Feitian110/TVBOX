@@ -4,6 +4,9 @@
 "wallpaper":"http://maoyingshi.cc/api.php",
 
 "sites":[
+ 
+  
+{"key": "91md","name": "91麻豆","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","playUrl": "parse:妹妹","searchable": 1,"quickSearch": 1,"filterable": 0},
 
 {"key": "maiyoux_open","name": "聚合直播","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/13998394872/TVBox/main/Cat/maiyoux_open.js","searchable": 1,"changeable": 1,"timeout": 60},
 
